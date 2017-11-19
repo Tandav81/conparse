@@ -1,0 +1,13 @@
+.title,
+.main-logo {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.main-logo {
+    max-width: 200px;
+}
+
+.bg-head {
+    background-color: #43a59b;
+}
